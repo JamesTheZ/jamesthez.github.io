@@ -1,50 +1,118 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am working in a top-tier team for machine learning system optimization. Prior to that, I was a Staff Research Engineer at Alibaba Cloud, overseeing the optimizing compilers for machine learning on GPUs and leading the research on machine learning inference optimization at *Platform of Artificial Intelligence* (PAI). PAI is Alibaba Cloud's ONLY SAAS/PAAS for Machine Learning End-to-End.
 
-A data-driven personal website
+I obtained my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/). My research focused on High-Performance Computing and Heterogeneous Computing. I served as a visiting scholar under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm) at North Carolina State University in 2018. I received my bachelor degree from Northwestern Polytechnical University in 2014.
+
+My interests include machine learning systems, high-performance computing and heterogeneous computing.
+
+**🔥We are hiring! We have world-class LLM industry scenarios and scientific research topics. Together we can make outstanding contributions to the development of AI technology and thereby contribute to human progress. Welcome to contact me.**
+
+
+[Projects](#projects)
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Machine Learning Optimizing Compiler**
+- [BladeDISC](https://github.com/alibaba/BladeDISC). The state-of-the-art optimizing compiler for end-to-end dynamic shape machine learning programs with advanced fusion and code generation optimization on multiple hardware backends ([AStitch](https://dl.acm.org/doi/10.1145/3503222.3507723) techniques).
+- [RECom](https://github.com/AlibabaResearch/recom). An optimizing compiler that aims to accelerate the expensive embedding column processing during the inference of deep recommendation models on the GPU.
+- [MonoNN](https://github.com/AlibabaResearch/mononn). An optimizing compiler that can accommodate an entire neural network into a single GPU kernel, drastically reducing non-computation overhead and providing further fine-grained optimization opportunities from the newly formed monolithic optimization space.
+(code will be released soon)
 
-Getting started
+**Machine Learning Kernel Library**
+- [Flash-LLM](https://github.com/AlibabaResearch/flash-llm). A large language model (LLM) inference acceleration library for unstructured model pruning.
+
+**Heterogeneous Computing**
+- [VersaPipe](https://github.com/JamesTheZ/VersaPipe). A framework for pipelined computing on GPU.
+
+
+[Publications](#publications)
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+\[OSDI'24\]
+"**MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures**".
+Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, Shuaiwen Leon Song.
+(revise-and-resubmitted in OSDI'23 and accepted in OSDI'24)
+<!-- \[[PDF](TBD)\]\[[Code](https://github.com/alibaba/BladeDISC)\] -->
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+\[SIGMOD'24\]
+"**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
+**Zhen Zheng**, Zaifeng Pan, Dalin Wang, Kai Zhu, Wenyi Zhao, Tianyou Guo, Xiafei Qiu, Minmin Sun, Junjie Bai, Feng Zhang, Xiaoyong Du, Jidong Zhai, Wei Lin.
+\[[Code](https://github.com/alibaba/BladeDISC)\]
 
-**Markdown generator**
+\[VLDB'24\]
+"**Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity**".
+Haojun Xia\*, **Zhen Zheng**\*, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.
+\[[PDF](https://arxiv.org/pdf/2309.10285.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+\[ASPLOS'24\]
+"**RECom: A Compiler Approach to Accelerating Recommendation Model Inference with Massive Embedding Columns**".
+Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Ruofan Wu, Hao Liang, Dalin Wang, Xiafei Qiu, Junjie Bai, Wei Lin, Xiaoyong Du.
+\[[Code](https://github.com/AlibabaResearch/recom)\]
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+\[TKDE'23\]
+"**Expanding the Edge: Enabling Efficient Winograd CNN Inference With Deep Reuse on Edge Device**".
+Feng Zhang, Ruofan Wu, Jiawei Guan, **Zhen Zheng**, Xiaoguang Guo, Xiao Zhang, Xiaoyong Du, Xipeng Shen.
+\[[PDF](/files/zhang-tkde23.pdf)\]
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+\[ASPLOS'22\]
+"**AStitch: Enabling a New Multi-dimensional Optimization Space for Memory-intensive ML Training and Inference on Modern SIMT Architectures**".
+**Zhen Zheng**, Xuanda Yang, Pengzhan Zhao, Guoping Long, Kai Zhu, Feiwen Zhu, Wenyi Zhao, Xiaoyong Liu, Jun Yang, Jidong Zhai, Shuaiwen Leon Song, Wei Lin.
+\[[PDF](/files/astitch-asplos22.pdf)\]
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+\[ATC'22\]
+"**Whale: Efficient Giant Model Training over Heterogeneous GPUs**".
+Xianyan Jia, Le Jiang, Ang Wang, Wencong Xiao, Ziji Shi, Jie Zhang, Xinyuan Li, Langshi Chen, Yong Li, **Zhen Zheng**, Xiaoyong Liu, Wei Lin.
+\[[PDF](/files/whale-atc22.pdf) | [Code](https://github.com/alibaba/EasyParallelLibrary)\]
+
+\[WWW'22\]
+"**DREW: Efficient Winograd CNN Inference with Deep Reuse**".
+Ruofan Wu, Feng Zhang, Jiawei Guan, **Zhen Zheng**, Xiaoyong Du, Xipeng Shen.
+\[[PDF](/files/drew-www22.pdf)\]
+
+\[TPDS'22\]
+"**Optimizing DNN Compilation for Distributed Training With Joint OP and Tensor Fusion**".
+Xiaodong Yi, Shiwei Zhang, Lansong Diao, Chuan Wu, **Zhen Zheng**, Shiqing Fan, Siyu Wang, Jun Yang, Wei Lin.
+\[[PDF](/files/disco-tpds22.pdf)\]
+
+\[PPoPP'21\]
+"**Understanding and Bridging the Gaps in Current GNN Performance Optimizations**".
+Kezhao Huang, Jidong Zhai, **Zhen Zheng**, Youngmin Yi, Xipeng Shen.
+\[[PDF](/files/huang-ppopp21.pdf)\]
+
+\[PPoPP'21\]
+"**DAPPLE: A Pipelined Data Parallel Approach for Training Large Models**".
+Shiqing Fan, Yi Rong, Chen Meng, Zongyan Cao, Siyu Wang, **Zhen Zheng**, Chuan Wu, Guoping Long, Jun Yang, Lixue Xia, Lansong Diao, Xiaoyong Liu, Wei Lin.
+\[[PDF](/files/dapple-ppopp21.pdf) | [Code](https://github.com/AlibabaPAI/DAPPLE)\]
+
+\[CoNEXT'20\]
+"**Optimizing Distributed Training Deployment in Heterogeneous GPU Clusters**".
+Xiaodong Yi, Shiwei Zhang, Ziyue Luo, Guoping Long, Lansong Diao, Chuan Wu, **Zhen Zheng**, Jun Yang, Wei Lin.
+\[[PDF](/files/heterog-conext20.pdf)\]
+
+\[PACT'20\]
+"**GOPipe: A Granularity-oblivious Programming Framework for Pipelined Stencil Executions on GPU**".
+Chanyoung Oh, **Zhen Zheng**, Xipeng Shen, Jidong Zhai, Youngmin Yi.
+\[[PDF](/files/gopipe-pact20.pdf)\]
+
+\[ASPLOS'19\]
+"**HiWayLib: A Software Framework for Enabling High Performance Communications for Heterogeneous Pipeline Computations**".
+**Zhen Zheng**, Chanyoung Oh, Jidong Zhai, Xipeng Shen, Youngmin Yi, Wenguang Chen.
+\[[PDF](/files/hiwaylib-asplos19.pdf)\]
+
+\[MICRO'17\]
+"**VersaPipe: A Versatile Programming Famework for Pipelined Computing on GPU**".
+**Zhen Zheng**, Chanyoung Oh, Jidong Zhai, Xipeng Shen, Youngmin Yi, Wenguang Chen.
+\[[PDF](/files/versapipe-micro17.pdf) | [Code](https://github.com/JamesTheZ/VersaPipe)\]
+
+\[SC'16\]
+"**Refactoring and Optimizing the Community Atmosphere Model (CAM) on the Sunway Taihulight Supercomputer**".
+Haohuan Fu, Junfeng Liao, Wei Xue, Lanning Wang, Dexun Chen, Long Gu, Jinxiu Xu, Nan Ding, Xinliang Wang, Conghui He, Shizhen Xu, Yishuang Liang, Jiarui Fang, Yuanchao Xu, Weijie Zheng, Jingheng Xu, **Zhen Zheng**, Wanjing Wei, Xu Ji, He Zhang, Bingwei Chen, Kaiwei Li, Xiaomeng Huang, Wenguang Chen, Guangwen Yang.
+\[[PDF](/files/fu-sc16.pdf)\]
