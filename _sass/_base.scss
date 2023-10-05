@@ -22,10 +22,22 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+<<<<<<< HEAD
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+=======
+  
+  
+  margin: 1em 0 0.5em;
+  line-height: 1.2;
+  font-family: $header-font-family;
+  font-weight: bold;
+  
+  
+
+>>>>>>> 19e1b0a (all.)
 }
 
 h1 {
@@ -33,15 +45,27 @@ h1 {
   font-size: $type-size-3;
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 19e1b0a (all.)
 h2 {
   font-size: $type-size-4;
 }
 
 h2::before {
+<<<<<<< HEAD
   content:"";
   display:block;
   height:80px; /* fixed header height*/
   margin:-80px 0 0; /* negative fixed header height */
+=======
+    content:"";
+    display:block;
+    height:80px; /* fixed header height*/
+    margin:-80px 0 0; /* negative fixed header height */
+>>>>>>> 19e1b0a (all.)
 }
 
 h3 {
@@ -131,7 +155,11 @@ a {
 
 /* code */
 
+<<<<<<< HEAD
 tt, code, kbd, samp, pre {
+=======
+tt, code, samp, pre {
+>>>>>>> 19e1b0a (all.)
   font-family: $monospace;
 }
 
@@ -153,11 +181,29 @@ td > code {
   box-shadow: $box-shadow;
 
   &:before, &:after {
+<<<<<<< HEAD
     letter-spacing: -0.2em;
+=======
+    letter-spacing: -0.5em;
+>>>>>>> 19e1b0a (all.)
     content: "\00a0"; /* non-breaking space*/
   }
 }
 
+<<<<<<< HEAD
+=======
+/* keyboard tag */
+
+kbd {
+  font-family: $monospace;
+  font-size: $type-size-6;
+  border-radius: 3px;
+  padding: 1px 2px 0;
+  border: 1px solid;
+  background-color: $code-background-color;
+}
+
+>>>>>>> 19e1b0a (all.)
 /* horizontal rule */
 
 hr {

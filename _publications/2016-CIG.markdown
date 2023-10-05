@@ -1,0 +1,8 @@
+---
+title:  "Online level generation in Super Mario Bros via learning constructive primitives"
+authors: [P. Shi, K. Chen]
+year: 2016
+conference: IEEE Conference on Computational Intelligence and Games
+---
+
+

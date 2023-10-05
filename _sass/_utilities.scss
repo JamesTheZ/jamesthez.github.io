@@ -213,6 +213,13 @@ body:hover .visually-hidden button {
   .fa-github-square {
     color: $github-color;
   }
+<<<<<<< HEAD
+=======
+  
+  .fa-gitlab {
+    color: $gitlab-color;
+  }
+>>>>>>> 19e1b0a (all.)
 
   .fa-google-plus,
   .fa-google-plus-square {
@@ -232,6 +239,13 @@ body:hover .visually-hidden button {
   .fa-linkedin-square {
     color: $linkedin-color;
   }
+<<<<<<< HEAD
+=======
+  
+  .fa-mastodon {
+    color: $mastodon-color;
+  }
+>>>>>>> 19e1b0a (all.)
 
   .fa-pinterest,
   .fa-pinterest-p,
@@ -282,6 +296,14 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
+<<<<<<< HEAD
+=======
+  
+  .ai-orcid,
+  .ai-orcid-square {
+    color: $orcid-color;
+  }
+>>>>>>> 19e1b0a (all.)
 }
 
 
@@ -437,8 +459,13 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
+<<<<<<< HEAD
   color: mix(#fff, $gray, 25%);
   text-decoration: none;
+=======
+  color: $link-color;
+  text-decoration: none !important;
+>>>>>>> 19e1b0a (all.)
 }
 
 .footnotes {
@@ -452,10 +479,17 @@ body:hover .visually-hidden button {
 
 a.reversefootnote {
   color: $gray;
+<<<<<<< HEAD
   text-decoration: none;
 
   &:hover {
     text-decoration: underline;
+=======
+  text-decoration: none !important;
+
+  &:hover {
+    text-decoration: none;
+>>>>>>> 19e1b0a (all.)
   }
 }
 

@@ -1,0 +1,7 @@
+---
+title:  "Status, issues, and future of computer-aided part orientation for additive manufacturing"
+authors: [Y. Qin, Q. Qi, P. Shi, P. J. Scott, X. Jiang]
+journal: The International Journal of Advanced Manufacturing Technology
+year: 2021 
+doi: "https://doi.org/10.1007/s00170-021-06996-6"
+---

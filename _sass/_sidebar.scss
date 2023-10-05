@@ -9,11 +9,20 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+<<<<<<< HEAD
+=======
+          
+  display: none;
+>>>>>>> 19e1b0a (all.)
 
   @include clearfix();
   margin-bottom: 1em;
 
   @include breakpoint($large) {
+<<<<<<< HEAD
+=======
+    display: block;
+>>>>>>> 19e1b0a (all.)
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
@@ -51,6 +60,7 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+<<<<<<< HEAD
 
   @include breakpoint($large) {
     position: relative;
@@ -63,6 +73,19 @@
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
+=======
+  @include breakpoint($large) {
+    position: sticky !important;
+    float: right !important;
+    top: 0;
+    right: 0;
+    width: $right-sidebar-width-narrow;
+    margin-right: -1 * $right-sidebar-width-narrow;
+    padding-left: 1em;
+    padding-top: 1em !important;
+    z-index: 10;
+  }
+>>>>>>> 19e1b0a (all.)
 }
 
 /*
@@ -70,6 +93,7 @@
    ========================================================================== */
 
 .author__avatar {
+<<<<<<< HEAD
   display: table-cell;
   vertical-align: top;
   width: 36px;
@@ -81,6 +105,23 @@
     width: auto;
     height: auto;
   }
+=======
+  display: none;
+  vertical-align: top;
+  width: 36px;
+  padding-top: 80px;
+  // set width only, for non-square avatars
+  // height: 36px;
+  
+
+  @include breakpoint($large) {
+    display: table-cell;
+    width: auto;
+    height: auto;
+  }
+  
+  
+>>>>>>> 19e1b0a (all.)
 
   img {
     max-width: 175px;
@@ -123,8 +164,15 @@
 
 .author__bio {
   margin: 0;
+<<<<<<< HEAD
 
   @include breakpoint($large) {
+=======
+  display: none;
+
+  @include breakpoint($large) {
+    display: block;
+>>>>>>> 19e1b0a (all.)
     margin-top: 10px;
     margin-bottom: 20px;
   }
@@ -132,7 +180,11 @@
 
 .author__urls-wrapper {
   position: relative;
+<<<<<<< HEAD
   display: table-cell;
+=======
+  display: none;
+>>>>>>> 19e1b0a (all.)
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
@@ -146,15 +198,25 @@
   }
 
   @include breakpoint($large) {
+<<<<<<< HEAD
     display: block;
+=======
+    display: table-cell;
+>>>>>>> 19e1b0a (all.)
   }
 
   button {
     margin-bottom: 0;
+<<<<<<< HEAD
 
     @include breakpoint($large) {
       display: none;
     }
+=======
+    display: none;
+
+    
+>>>>>>> 19e1b0a (all.)
   }
 }
 

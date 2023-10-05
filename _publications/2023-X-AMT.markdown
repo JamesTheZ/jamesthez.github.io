@@ -1,0 +1,6 @@
+---
+title:  "Selection of materials in metal additive manufacturing via three-way decision-making"
+authors: [Y. Qin, Q. Qi, P. Shi, P. J. Scott, X. Jiang]
+journal: "The International Journal of Advanced Manufacturing Technology"
+year: 2023
+---

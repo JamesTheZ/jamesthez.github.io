@@ -1,0 +1,13 @@
+---
+title:  "A novel learning-based feature recognition method using multiple sectional view representation"
+authors: [P. Shi, Q. Qi, Y. Qin, P. J. Scott, X. Jiang]
+year: 2020
+journal: Journal of Intelligent Manufacturing
+if: 7.136
+doi: "https://doi.org/10.1007/s10845-020-01533-w"
+pdf: "https://link.springer.com/content/pdf/10.1007/s10845-020-01533-w.pdf"
+github: "https://github.com/PeizhiShi/MsvNet"
+---
+
+
+

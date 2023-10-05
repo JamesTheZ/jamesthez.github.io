@@ -1,0 +1,6 @@
+---
+title:  "Linguistic interval-valued intuitionistic fuzzy archimedean power muirhead mean operators for multiattribute group decision-making"
+authors: [Y. Qin, X. Cui, M. Huang, Y. Zhong, Z. Tang, P. Shi]
+journal: Complexity
+year: 2020
+---

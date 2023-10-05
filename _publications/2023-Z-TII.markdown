@@ -1,0 +1,8 @@
+---
+title:  "Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning"
+authors: [P. Shi, Q. Qi, Y. Qin, F. Meng, S. Lou, P. J. Scott, X. Jiang]
+if: 12.3
+journal: "IEEE Transactions on Industrial Informatics"
+year: 2023
+doi: "https://doi.org/10.1109/TII.2023.3249751"
+---

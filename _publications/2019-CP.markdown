@@ -1,0 +1,6 @@
+---
+title:  "Archimedean Muirhead aggregation operators of q-rung orthopair fuzzy numbers for multicriteria group decision making"
+authors: [Y. Qin, X. Cui, M. Huang, Y. Zhong, Z. Tang, P. Shi]
+journal: Complexity
+year: 2019
+---

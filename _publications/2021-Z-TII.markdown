@@ -1,0 +1,9 @@
+---
+title:  "Intersecting machining feature localisation and recognition via single shot multibox detector"
+authors: [P. Shi, Q. Qi, Y. Qin, P. J. Scott, X. Jiang]
+journal: "IEEE Transactions on Industrial Informatics"
+year: 2021 
+if: 12.3
+github: "https://github.com/PeizhiShi/SsdNet"
+doi: "https://doi.org/10.1109/TII.2020.3030620"
+---

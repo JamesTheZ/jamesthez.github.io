@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Zhen Zheng"
 title_separator          : "-"
 name                     : &name "Zhen Zheng"
@@ -15,6 +16,16 @@ url                      : https://jamesthez.github.io/ # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JamesTheZ/jamesthez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+=======
+title                    : "Peizhi Shi"
+title_separator          : "-"
+name                     : &name "Peizhi Shi"
+description              : &description "Lecturer in Applied Artificial Intelligence"
+url                      : https://peizhishi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "peizhishi/peizhishi.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+>>>>>>> 19e1b0a (all.)
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -56,13 +67,24 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+<<<<<<< HEAD
 twitter:
   username               :
+=======
+mastodon:
+  username               : 
+twitter:
+  username               : 
+>>>>>>> 19e1b0a (all.)
 facebook:
   username               :
   app_id                 :
   publisher              :
+<<<<<<< HEAD
 og_image                 : profile.jpg # Open Graph/Twitter default site image
+=======
+og_image                 : profile.png # Open Graph/Twitter default site image
+>>>>>>> 19e1b0a (all.)
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,13 +95,22 @@ social:
 
 # Analytics
 analytics:
+<<<<<<< HEAD
   provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+=======
+  provider               : false # false (default), "google", "google-universal", "custom", "goatcounter"
+  google:
+    tracking_id          : 
+  goatcounter:
+    code		 : 
+>>>>>>> 19e1b0a (all.)
 
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Zhen Zheng (郑祯)"
   avatar           : "profile.jpg"
   bio              : "ML System Research Engineer"
@@ -88,6 +119,16 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8eMsZ84AAAAJ"
   email            : "zhengzhen.z@qq.com"
+=======
+  name             : "Peizhi Shi"
+  avatar           : "myprofile.jpeg"
+  bio              : "Lecturer in Artificial Intelligence"
+  location         : 
+  employer         : "University of Leeds"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=qQuCvmQAAAAJ"
+  email            : "p.shi@leeds.ac.uk"
+>>>>>>> 19e1b0a (all.)
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +137,33 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+<<<<<<< HEAD
   github           : "JamesTheZ"
+=======
+  github           : "PeizhiShi"
+>>>>>>> 19e1b0a (all.)
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
+<<<<<<< HEAD
   linkedin         : zheng-zhen-8a050262
   orcid            :
+=======
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0001-6724-282X"
+>>>>>>> 19e1b0a (all.)
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+<<<<<<< HEAD
   twitter          :
+=======
+  twitter          : 
+>>>>>>> 19e1b0a (all.)
   vine             :
   weibo            :
   xing             :
@@ -127,6 +181,11 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+<<<<<<< HEAD
+=======
+  - .Rproj.user
+  - _source
+>>>>>>> 19e1b0a (all.)
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
@@ -175,6 +234,7 @@ kramdown:
 
 # Collections
 collections:
+<<<<<<< HEAD
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -182,6 +242,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
+=======
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  research:
+>>>>>>> 19e1b0a (all.)
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +293,17 @@ defaults:
       author_profile: true
       share: true
       comments: true
+<<<<<<< HEAD
   # _portfolio
   - scope:
       path: ""
       type: portfolio
+=======
+  # _research
+  - scope:
+      path: ""
+      type: research
+>>>>>>> 19e1b0a (all.)
     values:
       layout: single
       author_profile: true
@@ -255,7 +328,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
+<<<<<<< HEAD
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+=======
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+>>>>>>> 19e1b0a (all.)
 
 
 # Plugins

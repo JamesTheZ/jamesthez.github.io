@@ -6,6 +6,10 @@
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
+<<<<<<< HEAD
+=======
+    padding-right: $right-sidebar-width-narrow;
+>>>>>>> 19e1b0a (all.)
     @include span(12 of 12);
   }
 
@@ -15,10 +19,17 @@
   }
 
   a {
+<<<<<<< HEAD
     text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
+=======
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+>>>>>>> 19e1b0a (all.)
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -74,6 +85,7 @@
   }
 }
 
+<<<<<<< HEAD
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -85,11 +97,14 @@
 }
 
 
+=======
+>>>>>>> 19e1b0a (all.)
 /*
    List view
    ========================================================================== */
 
 .list__item {
+<<<<<<< HEAD
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -101,6 +116,8 @@
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
   }
+=======
+>>>>>>> 19e1b0a (all.)
 
   .page__meta {
     margin: 0 0 4px;

@@ -8,10 +8,17 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
+<<<<<<< HEAD
   font-size: 16px;
 
   @include breakpoint($medium) {
     font-size: 18px;
+=======
+  font-size: 15px;
+
+  @include breakpoint($medium) {
+    font-size: 17px;
+>>>>>>> 19e1b0a (all.)
   }
 
   -webkit-text-size-adjust: 100%;
@@ -176,4 +183,8 @@ input[type="search"]::-webkit-search-cancel-button {
 textarea {
   overflow: auto; /* remove vertical scrollbar in IE6-9*/
   vertical-align: top; /* readability and alignment cross-browser*/
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 19e1b0a (all.)

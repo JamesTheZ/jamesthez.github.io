@@ -14,6 +14,10 @@
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
+<<<<<<< HEAD
+=======
+@import 'vendor';
+>>>>>>> 19e1b0a (all.)
 
 @import "reset";
 @import "base";
@@ -38,4 +42,10 @@
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
+<<<<<<< HEAD
 @import "print";
+=======
+@import "print";
+
+@import "custom";
+>>>>>>> 19e1b0a (all.)

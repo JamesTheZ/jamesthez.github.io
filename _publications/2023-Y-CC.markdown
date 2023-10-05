@@ -1,0 +1,7 @@
+---
+title:  "A novel weighted averaging operator of linguistic interval-valued intuitionistic fuzzy numbers for cognitively inspired decision-making"
+authors: [Y. Qin, Q. Qi, P. Shi, P. J. Scott, X. Jiang]
+journal: "Cognitive Computation"
+year: 2023
+doi: "https://doi.org/10.1007/s12559-023-10167-y"
+---

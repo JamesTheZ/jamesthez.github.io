@@ -28,19 +28,31 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
+<<<<<<< HEAD
 $global-font-family         : $sans-serif;
+=======
+$global-font-family         : $sans-serif-narrow;
+>>>>>>> 19e1b0a (all.)
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
 $type-size-2                : 1.953em;  // ~31.248px
+<<<<<<< HEAD
 $type-size-3                : 1.563em;  // ~25.008px
+=======
+$type-size-3                : 1.3em;  // ~25.008px
+>>>>>>> 19e1b0a (all.)
 $type-size-4                : 1.25em;   // ~20px
 $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
+<<<<<<< HEAD
+=======
+$type-size-syntax           : 0.875em;  // ~14px
+>>>>>>> 19e1b0a (all.)
 
 
 /*
@@ -57,14 +69,22 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
+<<<<<<< HEAD
 $text-color                 : $dark-gray;
+=======
+$text-color                 : #000;
+>>>>>>> 19e1b0a (all.)
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
+<<<<<<< HEAD
 $info-color                 : #52adc8;
+=======
+$info-color                 : #2979ab;
+>>>>>>> 19e1b0a (all.)
 
 /* brands */
 $behance-color              : #1769FF;
@@ -73,10 +93,19 @@ $facebook-color             : #3b5998;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
 $github-color               : #171516;
+<<<<<<< HEAD
+=======
+$gitlab-color               : #FCA121;
+>>>>>>> 19e1b0a (all.)
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
 $linkedin-color             : #007bb6;
+<<<<<<< HEAD
+=======
+$mastodon-color             : #6364ff;
+$orcid-color                : #a6ce39;
+>>>>>>> 19e1b0a (all.)
 $pinterest-color            : #cb2027;
 $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
@@ -93,8 +122,13 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
+<<<<<<< HEAD
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+=======
+$masthead-link-color        : #000;
+$masthead-link-color-hover  : mix(#fff, $link-color, 25%);
+>>>>>>> 19e1b0a (all.)
 
 
 /*
@@ -120,9 +154,15 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
+<<<<<<< HEAD
 $right-sidebar-width-narrow : 0px;
 $right-sidebar-width        : 0px;
 $right-sidebar-width-wide   : 0px;
+=======
+$right-sidebar-width-narrow : 200px !default;
+$right-sidebar-width        : 300px !default;
+$right-sidebar-width-wide   : 400px !default;
+>>>>>>> 19e1b0a (all.)
 
 $susy: (
   columns: 12,

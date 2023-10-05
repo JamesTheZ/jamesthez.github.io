@@ -1,0 +1,9 @@
+---
+title:  "Automatic generation of alternative build orientations for laser powder bed fusion based on facet clustering"
+authors: [Y. Qin, Q. Qi, P. Shi, P. J. Scott, X. Jiang]
+journal: Virtual and Physical Prototyping
+year: 2020 
+if: 10.962
+doi: "https://doi.org/10.1080/17452759.2020.1756086"
+github: "https://github.com/YuchuChingQin/GenerationOfABOs"
+---

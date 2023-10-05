@@ -1,0 +1,6 @@
+---
+title:  "Multi-attribute decision-making methods in additive manufacturing: The state of the art"
+authors: [Y. Qin, Q. Qi, P. Shi, S. Lou, P. J. Scott, X. Jiang]
+journal: "Processes"
+year: 2023
+---

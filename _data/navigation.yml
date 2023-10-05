@@ -1,5 +1,6 @@
 # main links links
 main:
+<<<<<<< HEAD
   - title: "Projects"
     url: "#projects"
 
@@ -23,3 +24,23 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+=======
+
+  - title: "About Me"
+    url: /index.html#about-me
+    
+  - title: "Recent News"
+    url: /index.html#recent-news
+    
+  - title: "Publications"
+    url: /index.html#publications
+    
+  - title: "Teaching"
+    url: /index.html#teaching
+
+  - title: "Professional Activity"
+    url: /index.html#professional-activity
+    
+  - title: "Biography"
+    url: /index.html#biography
+>>>>>>> 19e1b0a (all.)

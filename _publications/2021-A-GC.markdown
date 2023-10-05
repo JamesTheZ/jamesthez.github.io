@@ -1,0 +1,6 @@
+---
+title:  "Multiple-attribute decision-making based on picture fuzzy archimedean power Maclaurin symmetric mean operators"
+authors: [Y. Qin, X. Cui, M. Huang, Y. Zhong, Z. Tang, P. Shi]
+journal: Granular Computing
+year: 2021 
+---

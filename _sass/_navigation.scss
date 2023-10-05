@@ -185,7 +185,11 @@
     text-decoration: none;
 
     &:hover {
+<<<<<<< HEAD
       color: $masthead-link-color-hover;
+=======
+      color: $link-color;
+>>>>>>> 19e1b0a (all.)
     }
   }
 
@@ -206,7 +210,11 @@
 
     li {
       display: table-cell;
+<<<<<<< HEAD
       vertical-align: middle;
+=======
+      vertical-align: right;
+>>>>>>> 19e1b0a (all.)
 
       &:first-child {
         font-weight: bold;
@@ -232,7 +240,11 @@
         left: 0;
         bottom: 0;
         height: 4px;
+<<<<<<< HEAD
         background: mix(#fff, $primary-color, 50%);
+=======
+        background: $masthead-link-color-hover;
+>>>>>>> 19e1b0a (all.)
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -326,7 +338,11 @@
     color: inherit;
 
     &:hover {
+<<<<<<< HEAD
       text-decoration: underline;
+=======
+      text-decoration: none;
+>>>>>>> 19e1b0a (all.)
     }
   }
 
@@ -372,7 +388,10 @@
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
+<<<<<<< HEAD
   text-transform: uppercase;
+=======
+>>>>>>> 19e1b0a (all.)
   letter-spacing: 1px;
   background-color: #fff;
   border: 1px solid $border-color;
@@ -410,6 +429,7 @@
     }
   }
 
+<<<<<<< HEAD
   > li:last-child {
     a {
       border-bottom: none;
@@ -430,3 +450,26 @@
     }
   }
 }
+=======
+  li ul > li a {
+    padding-left: 1.25rem;
+    font-weight: normal;
+  }
+
+  li ul li ul > li a {
+    padding-left: 1.75rem;
+  }
+
+  li ul li ul li ul > li a {
+    padding-left: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-left: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-left: 3.25rem
+  }
+}
+>>>>>>> 19e1b0a (all.)

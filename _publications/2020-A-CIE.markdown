@@ -1,0 +1,9 @@
+---
+title:  "Novel operational laws and power muirhead mean operators of picture fuzzy values in the framework of Dempster-Shafer theory for multiple criteria decision making"
+authors: [Y. Qin, Q. Qi, P. Shi, P. J. Scott, X. Jiang]
+journal: Computers & Industrial Engineering
+year: 2020 
+if: 7.18
+doi: "https://doi.org/10.1016/j.cie.2020.106853"
+github: "https://github.com/YuchuChingQin/PFPMMOperatorsInDST"
+---
