@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am working in a top-tier team for machine learning system optimization. 
+
+I am a Principal Research Engineer at Microsoft, working on large-scale machine learning system optimization through innovative kernel, compiler, compression, and scheduling technologies ([deepspeed.ai](https://www.deepspeed.ai)).
 Prior to that, I was a Staff Research Engineer at Alibaba Cloud, overseeing the optimizing compilers for machine learning on GPUs and leading the research on machine learning inference optimization at *Platform of Artificial Intelligence* (PAI, Alibaba Cloud's ONLY SAAS/PAAS for machine learning end-to-end).
 Before Alibaba, I obtained my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 I served as a visiting scholar under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm) at North Carolina State University in 2018.
