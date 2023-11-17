@@ -42,12 +42,11 @@ My interests include machine learning systems, high-performance computing and he
 "**MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures**".
 Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, Shuaiwen Leon Song.
 (revise-and-resubmitted in OSDI'23 and accepted in OSDI'24)
-<!-- \[[PDF](TBD)\]\[[Code](https://github.com/alibaba/BladeDISC)\] -->
 
 \[SIGMOD'24\]
 "**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
 **Zhen Zheng**, Zaifeng Pan, Dalin Wang, Kai Zhu, Wenyi Zhao, Tianyou Guo, Xiafei Qiu, Minmin Sun, Junjie Bai, Feng Zhang, Xiaoyong Du, Jidong Zhai, Wei Lin.
-\[[Code](https://github.com/alibaba/BladeDISC)\]
+\[[PDF](/files/bladedisc-sigmod24.pdf) | [Code](https://github.com/alibaba/BladeDISC)\]
 
 \[VLDB'24\]
 "**Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity**".
