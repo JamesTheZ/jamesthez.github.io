@@ -38,6 +38,10 @@ My interests include machine learning systems, high-performance computing and he
 [Publications](#publications)
 ======
 
+\[EuroSys'24\]
+"**Optimizing GNN with Joint Workload Partition of Graph and Operations**".
+Kezhao Huang, Jidong Zhai, Liyan Zheng, Haojie Wang, Yuyang Jin, Qihao Zhang, Runqing Zhang, **Zhen Zheng**, Youngmin Yi, Xipeng Shen.
+
 \[OSDI'24\]
 "**MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures**".
 Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, Shuaiwen Leon Song.
