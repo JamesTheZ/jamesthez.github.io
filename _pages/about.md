@@ -55,7 +55,7 @@ Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, 
 \[VLDB'24\]
 "**Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity**".
 Haojun Xia\*, **Zhen Zheng**\*, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.
-\[[PDF](https://arxiv.org/pdf/2309.10285.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
+\[[PDF](/files/flashllm-vldb24.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
 
 \[ASPLOS'24\]
 "**RECom: A Compiler Approach to Accelerating Recommendation Model Inference with Massive Embedding Columns**".
