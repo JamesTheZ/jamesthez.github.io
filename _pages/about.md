@@ -57,10 +57,10 @@ Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, 
 Haojun Xia\*, **Zhen Zheng**\*, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.
 \[[PDF](/files/flashllm-vldb24.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
 
-\[ASPLOS'24\]
+\[ASPLOS'23\]
 "**RECom: A Compiler Approach to Accelerating Recommendation Model Inference with Massive Embedding Columns**".
 Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Ruofan Wu, Hao Liang, Dalin Wang, Xiafei Qiu, Junjie Bai, Wei Lin, Xiaoyong Du.
-\[[Code](https://github.com/AlibabaResearch/recom)\]
+\[[PDF](/files/recom-asplos23.pdf) | [Code](https://github.com/AlibabaResearch/recom)\]
 
 \[TKDE'23\]
 "**Expanding the Edge: Enabling Efficient Winograd CNN Inference With Deep Reuse on Edge Device**".
