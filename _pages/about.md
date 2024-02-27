@@ -38,8 +38,18 @@ My interests include machine learning systems, high-performance computing and he
 [Publications](#publications)
 ======
 
+\[Preprint'24\]
+"**FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design**".
+Haojun Xia, **Zhen Zheng**, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song.
+\[[PDF](https://arxiv.org/pdf/2401.14112.pdf)\]
+
+\[Preprint'24\]
+"**ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks**".
+Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Yuxiong He, Olatunji Ruwase, Leon Song, Zhewei Yao.
+\[[PDF](https://arxiv.org/pdf/2312.08583.pdf)\]
+
 \[EuroSys'24\]
-"**Optimizing GNN with Joint Workload Partition of Graph and Operations**".
+"**Nollie: Optimizing GNN with Joint Workload Partition of Graph and Operations**".
 Kezhao Huang, Jidong Zhai, Liyan Zheng, Haojie Wang, Yuyang Jin, Qihao Zhang, Runqing Zhang, **Zhen Zheng**, Youngmin Yi, Xipeng Shen.
 
 \[OSDI'24\]
