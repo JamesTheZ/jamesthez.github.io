@@ -49,8 +49,9 @@ Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhti
 \[[PDF](https://arxiv.org/pdf/2312.08583.pdf)\]
 
 \[EuroSys'24\]
-"**Nollie: Optimizing GNN with Joint Workload Partition of Graph and Operations**".
+"**WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations**".
 Kezhao Huang, Jidong Zhai, Liyan Zheng, Haojie Wang, Yuyang Jin, Qihao Zhang, Runqing Zhang, **Zhen Zheng**, Youngmin Yi, Xipeng Shen.
+(to appear)
 
 \[OSDI'24\]
 "**MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures**".
