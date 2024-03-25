@@ -30,6 +30,7 @@ My interests include machine learning systems, high-performance computing and he
 
 **Machine Learning Kernel Library**
 - [Flash-LLM](https://github.com/AlibabaResearch/flash-llm). A large language model (LLM) inference acceleration library for unstructured model pruning.
+- [FP6-LLM](https://github.com/usyd-fsalab/fp6_llm). An efficient GPU support for LLM inference with FP6 quantization (end-to-end: [DeepSpeed-FP6](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024)).
 
 **Heterogeneous Computing**
 - [VersaPipe](https://github.com/JamesTheZ/VersaPipe). A framework for pipelined computing on GPU.
