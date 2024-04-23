@@ -52,7 +52,7 @@ Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhti
 \[EuroSys'24\]
 "**WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations**".
 Kezhao Huang, Jidong Zhai, Liyan Zheng, Haojie Wang, Yuyang Jin, Qihao Zhang, Runqing Zhang, **Zhen Zheng**, Youngmin Yi, Xipeng Shen.
-(to appear)
+\[[PDF](/files/wisegraph-eurosys24.pdf) | [Code](https://github.com/xxcclong/CxGNN-Compute)\]
 
 \[OSDI'24\]
 "**MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures**".
