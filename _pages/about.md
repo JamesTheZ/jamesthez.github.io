@@ -40,14 +40,14 @@ My interests include machine learning systems, high-performance computing and he
 ======
 
 \[Preprint'24\]
-"**FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design**".
-Haojun Xia, **Zhen Zheng**, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song.
-\[[PDF](https://arxiv.org/pdf/2401.14112.pdf)\]
-
-\[Preprint'24\]
 "**ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks**".
 Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Yuxiong He, Olatunji Ruwase, Leon Song, Zhewei Yao.
 \[[PDF](https://arxiv.org/pdf/2312.08583.pdf)\]
+
+\[ATC'24\]
+"**FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design**".
+Haojun Xia, **Zhen Zheng**, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song.
+\[[PDF](https://arxiv.org/pdf/2401.14112.pdf) | [Code](https://github.com/usyd-fsalab/fp6_llm) | [E2E](https://github.com/microsoft/DeepSpeed/pull/5234)\]
 
 \[EuroSys'24\]
 "**WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations**".
