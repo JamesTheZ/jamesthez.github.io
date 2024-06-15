@@ -44,6 +44,10 @@ My interests include machine learning systems, high-performance computing and he
 Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Yuxiong He, Olatunji Ruwase, Leon Song, Zhewei Yao.
 \[[PDF](https://arxiv.org/pdf/2312.08583.pdf)\]
 
+\[SC'24\]
+"**RecFlex: Enabling Feature Heterogeneity-Aware Optimization for Deep Recommendation Models with Flexible Schedules**".
+Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Bing Xie, Ruofan Wu, Shaden Smith, Chuanjie Liu, Olatunji Ruwase, Xiaoyong Du, and Yufei Ding.
+
 \[ATC'24\]
 "**FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design**".
 Haojun Xia, **Zhen Zheng**, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song.
