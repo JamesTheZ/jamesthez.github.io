@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 
-I am a Principal Research Engineer at Microsoft, working on large-scale machine learning system optimization through innovative kernel, compiler, compression, and scheduling technologies ([DeepSpeed Project](https://www.microsoft.com/en-us/research/project/deepspeed/)).
+I am a Principal Research Engineer at Microsoft AI, working on large-scale machine learning system optimization through innovative kernel, compiler, compression, and scheduling technologies.
 Prior to that, I was a Staff Research Engineer at Alibaba Cloud, overseeing the optimizing compilers for machine learning on GPUs and leading the research on machine learning inference optimization at *Platform of Artificial Intelligence* (PAI, Alibaba Cloud's ONLY SAAS/PAAS for machine learning end-to-end).
 Before Alibaba, I obtained my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 I served as a visiting scholar under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm) at North Carolina State University in 2018.
 
-My interests include machine learning systems, high-performance computing and heterogeneous computing.
+My interests include machine learning algorithm system co-design, high-performance computing and heterogeneous computing.
+Welcome to contact me for any form of research cooperation.
 
-**🔥We are hiring! We have world-class LLM industry scenarios and scientific research topics. Together we can make outstanding contributions to the development of AI technology and thereby contribute to human progress. Welcome to contact me.**
+**🔥We are hiring! We have world-class LLM industry scenarios and scientific research topics. Together we can make outstanding contributions to the development of AI technology and thereby contribute to human progress.**
 
 
 [Projects](#projects)
@@ -47,6 +48,7 @@ Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhti
 \[SC'24\]
 "**RecFlex: Enabling Feature Heterogeneity-Aware Optimization for Deep Recommendation Models with Flexible Schedules**".
 Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Bing Xie, Ruofan Wu, Shaden Smith, Chuanjie Liu, Olatunji Ruwase, Xiaoyong Du, and Yufei Ding.
+\[[Code](https://github.com/PanZaifeng/RecFlex)\]
 
 \[ATC'24\]
 "**FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design**".
