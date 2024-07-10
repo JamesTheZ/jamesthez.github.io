@@ -51,9 +51,10 @@ Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Bing Xie, Ruofan Wu, Shaden Smith, Chua
 \[[Code](https://github.com/PanZaifeng/RecFlex)\]
 
 \[ATC'24\]
-"**FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design**".
+"**Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs**".
 Haojun Xia, **Zhen Zheng**, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song.
-\[[PDF](https://arxiv.org/pdf/2401.14112.pdf) | [Code](https://github.com/usyd-fsalab/fp6_llm) | [E2E](https://github.com/microsoft/DeepSpeed/pull/5234)\]
+(previous preprint name: _FP6-LLM_)
+\[[PDF](/files/quantllm-atc24.pdf) | [Code](https://github.com/usyd-fsalab/fp6_llm) | [E2E](https://github.com/microsoft/DeepSpeed/pull/5234)\]
 
 \[EuroSys'24\]
 "**WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations**".
@@ -64,6 +65,7 @@ Kezhao Huang, Jidong Zhai, Liyan Zheng, Haojie Wang, Yuyang Jin, Qihao Zhang, Ru
 "**MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures**".
 Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, Shuaiwen Leon Song.
 (revise-and-resubmitted in OSDI'23 and accepted in OSDI'24)
+\[[PDF](/files/mononn-osdi24.pdf) | [Code](https://github.com/AlibabaResearch/mononn)\]
 
 \[SIGMOD'24\]
 "**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
