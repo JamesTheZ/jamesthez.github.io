@@ -31,7 +31,7 @@ Welcome to contact me for any form of research cooperation.
 
 **Machine Learning Kernel Library**
 - [Flash-LLM](https://github.com/AlibabaResearch/flash-llm). A large language model (LLM) inference acceleration library for unstructured model pruning.
-- [FP6-LLM](https://github.com/usyd-fsalab/fp6_llm). An efficient GPU support for LLM inference with FP6 quantization (end-to-end: [DeepSpeed-FP6](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024)).
+- [Quant-LLM/FP6-LLM](https://github.com/usyd-fsalab/fp6_llm). An efficient GPU support for LLM inference with FP6 quantization (end-to-end: [DeepSpeed-FP6](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024)).
 
 **Heterogeneous Computing**
 - [VersaPipe](https://github.com/JamesTheZ/VersaPipe). A framework for pipelined computing on GPU.
@@ -39,6 +39,12 @@ Welcome to contact me for any form of research cooperation.
 
 [Publications](#publications)
 ======
+
+\[EuroSys'25\]
+"**Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing**".
+Shulai Zhang, Quan Chen, Weihao Cui, Han Zhao, Chunyu Xue, **Zhen Zheng**, Wei Lin, 
+Minyi Guo.
+(to appear)
 
 \[Preprint'24\]
 "**ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks**".
