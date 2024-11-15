@@ -54,7 +54,7 @@ Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhti
 \[SC'24\]
 "**RecFlex: Enabling Feature Heterogeneity-Aware Optimization for Deep Recommendation Models with Flexible Schedules**".
 Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Bing Xie, Ruofan Wu, Shaden Smith, Chuanjie Liu, Olatunji Ruwase, Xiaoyong Du, and Yufei Ding.
-\[[Code](https://github.com/PanZaifeng/RecFlex)\]
+\[[PDF](/files/recflex-sc24.pdf) | [Code](https://github.com/PanZaifeng/RecFlex)\]
 
 \[ATC'24\]
 "**Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs**".
