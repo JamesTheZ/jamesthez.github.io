@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Principal Research Engineer at Microsoft AI, working on large-scale machine learning system optimization through innovative kernel, compiler, compression, and scheduling technologies.
+I am a Principal Research Engineer at Microsoft AI, working on large-scale machine learning system optimization through innovative kernel, compression, scheduling, and compiler technologies.
 Prior to that, I was a Staff Research Engineer at Alibaba Cloud, overseeing the optimizing compilers for machine learning on GPUs and leading the research on machine learning inference optimization at *Platform of Artificial Intelligence* (PAI, Alibaba Cloud's ONLY SAAS/PAAS for machine learning end-to-end).
 Before Alibaba, I obtained my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 I served as a visiting scholar under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm) at North Carolina State University in 2018.
@@ -20,7 +20,7 @@ Welcome to contact me for any form of research cooperation.
 **🔥We are hiring! We have world-class LLM industry scenarios and scientific research topics. Together we can make outstanding contributions to the development of AI technology and thereby contribute to human progress.**
 
 
-[Projects](#projects)
+<!-- [Projects](#projects)
 ======
 
 **Machine Learning Optimizing Compiler**
@@ -34,7 +34,7 @@ Welcome to contact me for any form of research cooperation.
 - [Quant-LLM/FP6-LLM](https://github.com/usyd-fsalab/fp6_llm). An efficient GPU support for LLM inference with FP6 quantization (end-to-end: [DeepSpeed-FP6](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024)).
 
 **Heterogeneous Computing**
-- [VersaPipe](https://github.com/JamesTheZ/VersaPipe). A framework for pipelined computing on GPU.
+- [VersaPipe](https://github.com/JamesTheZ/VersaPipe). A framework for pipelined computing on GPU. -->
 
 
 [Publications](#publications)
@@ -47,9 +47,14 @@ Minyi Guo.
 (to appear)
 
 \[Preprint'24\]
+"**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**".
+**Zhen Zheng**, Xin Ji, Taosong Fang, Fanghao Zhou, Chuanjie Liu, Gang Peng.
+\[[PDF](https://arxiv.org/pdf/2412.03594)\]
+
+\[Preprint'24\]
 "**ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks**".
 Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Yuxiong He, Olatunji Ruwase, Leon Song, Zhewei Yao.
-\[[PDF](https://arxiv.org/pdf/2312.08583.pdf)\]
+\[[PDF](https://arxiv.org/pdf/2312.08583)\]
 
 \[SC'24\]
 "**RecFlex: Enabling Feature Heterogeneity-Aware Optimization for Deep Recommendation Models with Flexible Schedules**".
@@ -59,7 +64,7 @@ Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Bing Xie, Ruofan Wu, Shaden Smith, Chua
 \[ATC'24\]
 "**Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs**".
 Haojun Xia, **Zhen Zheng**, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song.
-(previous preprint name: _FP6-LLM_)
+(**integrated in torch.ao, previous preprint: [_FP6-LLM_](https://arxiv.org/pdf/2401.14112)**)
 \[[PDF](/files/quantllm-atc24.pdf) | [Code](https://github.com/usyd-fsalab/fp6_llm) | [E2E](https://github.com/microsoft/DeepSpeed/pull/5234)\]
 
 \[EuroSys'24\]
@@ -73,15 +78,15 @@ Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, 
 (revise-and-resubmitted in OSDI'23 and accepted in OSDI'24)
 \[[PDF](/files/mononn-osdi24.pdf) | [Code](https://github.com/AlibabaResearch/mononn)\]
 
-\[SIGMOD'24\]
-"**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
-**Zhen Zheng**, Zaifeng Pan, Dalin Wang, Kai Zhu, Wenyi Zhao, Tianyou Guo, Xiafei Qiu, Minmin Sun, Junjie Bai, Feng Zhang, Xiaoyong Du, Jidong Zhai, Wei Lin.
-\[[PDF](/files/bladedisc-sigmod24.pdf) | [Code](https://github.com/alibaba/BladeDISC)\]
-
 \[VLDB'24\]
 "**Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity**".
 Haojun Xia\*, **Zhen Zheng**\*, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.
 \[[PDF](/files/flashllm-vldb24.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
+
+\[SIGMOD'24 / PACMMOD'23\]
+"**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
+**Zhen Zheng**, Zaifeng Pan, Dalin Wang, Kai Zhu, Wenyi Zhao, Tianyou Guo, Xiafei Qiu, Minmin Sun, Junjie Bai, Feng Zhang, Xiaoyong Du, Jidong Zhai, Wei Lin.
+\[[PDF](/files/bladedisc-sigmod24.pdf) | [Code](https://github.com/alibaba/BladeDISC)\]
 
 \[ASPLOS'23\]
 "**RECom: A Compiler Approach to Accelerating Recommendation Model Inference with Massive Embedding Columns**".
