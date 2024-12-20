@@ -42,14 +42,20 @@ Welcome to contact me for any form of research cooperation.
 
 \[EuroSys'25\]
 "**Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing**".
-Shulai Zhang, Quan Chen, Weihao Cui, Han Zhao, Chunyu Xue, **Zhen Zheng**, Wei Lin, 
-Minyi Guo.
+Shulai Zhang, Quan Chen, Weihao Cui, Han Zhao, Chunyu Xue, **Zhen Zheng**, Wei Lin, Minyi Guo.
 (to appear)
+
+\[Preprint'24\]
+"**MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design**".
+**Zhen Zheng**, Xiaonan Song, Chuanjie Liu.
+\[[PDF](https://arxiv.org/pdf/2412.14590)\]
+(the code will be released in the future)
 
 \[Preprint'24\]
 "**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**".
 **Zhen Zheng**, Xin Ji, Taosong Fang, Fanghao Zhou, Chuanjie Liu, Gang Peng.
 \[[PDF](https://arxiv.org/pdf/2412.03594)\]
+(the code will be released in the future)
 
 \[Preprint'24\]
 "**ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks**".
@@ -78,12 +84,12 @@ Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, 
 (revise-and-resubmitted in OSDI'23 and accepted in OSDI'24)
 \[[PDF](/files/mononn-osdi24.pdf) | [Code](https://github.com/AlibabaResearch/mononn)\]
 
-\[VLDB'24\]
+\[VLDB'24 (PVLDB'23)\]
 "**Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity**".
 Haojun Xia\*, **Zhen Zheng**\*, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.
 \[[PDF](/files/flashllm-vldb24.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
 
-\[SIGMOD'24 / PACMMOD'23\]
+\[SIGMOD'24 (PACMMOD'23)\]
 "**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
 **Zhen Zheng**, Zaifeng Pan, Dalin Wang, Kai Zhu, Wenyi Zhao, Tianyou Guo, Xiafei Qiu, Minmin Sun, Junjie Bai, Feng Zhang, Xiaoyong Du, Jidong Zhai, Wei Lin.
 \[[PDF](/files/bladedisc-sigmod24.pdf) | [Code](https://github.com/alibaba/BladeDISC)\]
