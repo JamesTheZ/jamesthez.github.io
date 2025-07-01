@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Principal Research Engineer at Microsoft AI, working on large-scale machine learning system optimization through innovative kernel, compression, scheduling, and compiler technologies.
+I am a Principal Research Manager at Microsoft AI, working on large-scale machine learning system optimization through innovative kernel, compression, scheduling, and compiler technologies.
 Prior to that, I was a Staff Research Engineer at Alibaba Cloud, overseeing the optimizing compilers for machine learning on GPUs and leading the research on machine learning inference optimization at *Platform of Artificial Intelligence* (PAI, Alibaba Cloud's ONLY SAAS/PAAS for machine learning end-to-end).
 Before Alibaba, I obtained my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 I served as a visiting scholar under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm) at North Carolina State University in 2018.
@@ -40,10 +40,15 @@ Welcome to contact me for any form of research cooperation.
 [Publications](#publications)
 ======
 
+\[ATC'25\]
+"**PluS: Highly Efficient and Expandable ML Compiler with Pluggable Graph Schedules**".
+Ruofan Wu, **Zhen Zheng**, Feng Zhang, Chuanjie Liu, Zaifeng Pan, Jidong Zhai, and Xiaoyong Du.
+(to appear)
+
 \[EuroSys'25\]
 "**Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing**".
 Shulai Zhang, Quan Chen, Weihao Cui, Han Zhao, Chunyu Xue, **Zhen Zheng**, Wei Lin, Minyi Guo.
-(to appear)
+\[[PDF](/files/bless-eurosys25.pdf)\]
 
 \[Preprint'24\]
 "**MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design**".

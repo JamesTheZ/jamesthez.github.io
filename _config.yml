@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhen Zheng"
 title_separator          : "-"
 name                     : &name "Zhen Zheng"
-description              : &description "ML System Research Engineer"
+description              : &description "ML System Research Manager"
 url                      : https://jamesthez.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JamesTheZ/jamesthez.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhen Zheng (郑祯)"
   avatar           : "profile.jpg"
-  bio              : "ML System Research Engineer"
+  bio              : "ML System Research Manager"
   location         :
   employer         :
   pubmed           :
