@@ -43,7 +43,7 @@ Welcome to contact me for any form of research cooperation.
 \[ATC'25\]
 "**PluS: Highly Efficient and Expandable ML Compiler with Pluggable Graph Schedules**".
 Ruofan Wu, **Zhen Zheng**, Feng Zhang, Chuanjie Liu, Zaifeng Pan, Jidong Zhai, and Xiaoyong Du.
-(to appear)
+\[[PDF](/files/plus-atc25.pdf)\]
 
 \[EuroSys'25\]
 "**Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing**".
