@@ -40,6 +40,11 @@ Welcome to contact me for any form of research cooperation.
 [Publications](#publications)
 ======
 
+\[FCS'26\]
+"**A Comprehensive Taxonomy of Prompt Engineering Techniques for Large Language Models**".
+Yaoyang Liu, Zhen Zheng, Feng Zhang, Jincheng Feng, Yiyang Fu, Jidong Zhai, Bingsheng He, Xiao Zhang, Xiaoyong Du.
+\[[PDF](/files/liu-fcs26.pdf)\]
+
 \[ATC'25\]
 "**PluS: Highly Efficient and Expandable ML Compiler with Pluggable Graph Schedules**".
 Ruofan Wu, **Zhen Zheng**, Feng Zhang, Chuanjie Liu, Zaifeng Pan, Jidong Zhai, and Xiaoyong Du.
