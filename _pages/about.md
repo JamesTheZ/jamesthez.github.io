@@ -45,6 +45,12 @@ Welcome to contact me for any form of research cooperation.
 Yaoyang Liu, Zhen Zheng, Feng Zhang, Jincheng Feng, Yiyang Fu, Jidong Zhai, Bingsheng He, Xiao Zhang, Xiaoyong Du.
 \[[PDF](/files/liu-fcs26.pdf)\]
 
+\[Preprint'25\]
+"**Kitty: Accurate and Efficient 2-bit KV Cache Quantization with Dynamic Channel-wise Precision Boost**".
+Haojun Xia, Xiaoxia Wu, Jisen Li, Robert Wu, Junxiong Wang, Jue Wang, Chenxi Li, Aman Singhal, Alay Dilipbhai Shah, Alpay Ariyak, Donglin Zhuang, Zhongzhu Zhou, Ben Athiwaratkun, **Zhen Zheng**†, Shuaiwen Leon Song†.
+\[[PDF](https://arxiv.org/pdf/2511.18643) | [Code](https://github.com/Summer-Summer/Kitty)\]
+(† Corresponding author)
+
 \[ATC'25\]
 "**PluS: Highly Efficient and Expandable ML Compiler with Pluggable Graph Schedules**".
 Ruofan Wu, **Zhen Zheng**, Feng Zhang, Chuanjie Liu, Zaifeng Pan, Jidong Zhai, and Xiaoyong Du.
@@ -93,11 +99,13 @@ Kezhao Huang, Jidong Zhai, Liyan Zheng, Haojie Wang, Yuyang Jin, Qihao Zhang, Ru
 Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, Shuaiwen Leon Song.
 (revise-and-resubmitted in OSDI'23 and accepted in OSDI'24)
 \[[PDF](/files/mononn-osdi24.pdf) | [Code](https://github.com/AlibabaResearch/mononn)\]
+(* Equal contribution)
 
 \[VLDB'24 (PVLDB'23)\]
 "**Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity**".
 Haojun Xia\*, **Zhen Zheng**\*, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.
 \[[PDF](/files/flashllm-vldb24.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
+(* Equal contribution)
 
 \[SIGMOD'24 (PACMMOD'23)\]
 "**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
