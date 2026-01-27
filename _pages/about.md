@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a Senior Principal Research Manager at Microsoft AI (_Microsoft Superintelligence_), working on large-scale machine learning system optimization through innovative kernel, algorithm, scheduling, and compiler technologies.
-Previously, I was a Staff Research Engineer at Alibaba Cloud, where I led the development of optimizing compilers for GPU-based machine learning and spearheaded research on inference optimization for the _Platform of Artificial Intelligence_ (_PAI_)—Alibaba Cloud's premier SaaS/PaaS solution for end-to-end machine learning.
+I am a Senior Principal Research Manager at Microsoft AI (from _DeepSpeed_ team to _Microsoft Superintelligence_ team), working on large-scale machine learning system optimization through innovative kernel, algorithm, scheduling, and compiler technologies.
+Previously, I was a Staff Research Engineer at Alibaba Cloud, where I led the development of optimizing compilers for GPU-based machine learning and spearheaded research on inference optimization for the _Platform of Artificial Intelligence_ (PAI)—Alibaba Cloud's premier SaaS/PaaS solution for end-to-end machine learning.
 Before Alibaba, I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 In 2018, I was a visiting scholar at North Carolina State University under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm).
 
