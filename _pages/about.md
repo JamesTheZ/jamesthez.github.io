@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a Senior Principal Research Manager at Microsoft AI, working on large-scale machine learning system optimization through innovative kernel, algorithm, scheduling, and compiler technologies.
-Prior to that, I was a Staff Research Engineer at Alibaba Cloud, overseeing the optimizing compilers for machine learning on GPUs and leading the research on machine learning inference optimization at *Platform of Artificial Intelligence* (PAI, Alibaba Cloud's ONLY SAAS/PAAS for machine learning end-to-end).
-Before Alibaba, I obtained my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
-I served as a visiting scholar under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm) at North Carolina State University in 2018.
+I am a Senior Principal Research Manager at Microsoft AI (_Microsoft Superintelligence_), working on large-scale machine learning system optimization through innovative kernel, algorithm, scheduling, and compiler technologies.
+Previously, I was a Staff Research Engineer at Alibaba Cloud, where I led the development of optimizing compilers for GPU-based machine learning and spearheaded research on inference optimization for the _Platform of Artificial Intelligence_ (_PAI_)—Alibaba Cloud's premier SaaS/PaaS solution for end-to-end machine learning.
+Before Alibaba, I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+In 2018, I was a visiting scholar at North Carolina State University under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm).
 
-My interests include machine learning algorithm system co-design, high-performance computing and heterogeneous computing.
-Welcome to contact me for any form of research cooperation.
+My research interests span machine learning algorithm-system co-design, high-performance computing, and heterogeneous computing.
+Please feel free to contact me regarding potential research collaborations.
 
 **🔥We are hiring! We have world-class LLM industry scenarios and scientific research topics. Together we can make outstanding contributions to the development of AI technology and thereby contribute to human progress.**
 
@@ -40,20 +40,34 @@ Welcome to contact me for any form of research cooperation.
 [Publications](#publications)
 ======
 
-\[FCS'26\]
-"**A Comprehensive Taxonomy of Prompt Engineering Techniques for Large Language Models**".
-Yaoyang Liu, Zhen Zheng, Feng Zhang, Jincheng Feng, Yiyang Fu, Jidong Zhai, Bingsheng He, Xiao Zhang, Xiaoyong Du.
-\[[PDF](/files/liu-fcs26.pdf)\]
+\[MLSys'26 (_to appear_)\]
+"**FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap**".
+Taosong Fang, **Zhen Zheng**, Zhengzhao Ma, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun.
 
-\[Preprint'25\]
+\[MLSys'26 (_to appear_)\]
 "**Kitty: Accurate and Efficient 2-bit KV Cache Quantization with Dynamic Channel-wise Precision Boost**".
 Haojun Xia, Xiaoxia Wu, Jisen Li, Robert Wu, Junxiong Wang, Jue Wang, Chenxi Li, Aman Singhal, Alay Dilipbhai Shah, Alpay Ariyak, Donglin Zhuang, Zhongzhu Zhou, Ben Athiwaratkun, **Zhen Zheng**†, Shuaiwen Leon Song†.
 \[[PDF](https://arxiv.org/pdf/2511.18643) | [Code](https://github.com/Summer-Summer/Kitty)\]
 († Corresponding author)
 
+\[MLSys'26 (_to appear_)\]
+"**MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design**".
+**Zhen Zheng**, Xiaonan Song, Chuanjie Liu.
+\[[PDF](https://arxiv.org/pdf/2412.14590)\]
+
+\[MLSys'26 (_to appear_)\]
+"**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**".
+**Zhen Zheng**, Xin Ji, Taosong Fang, Fanghao Zhou, Chuanjie Liu, Gang Peng.
+\[[PDF](https://arxiv.org/pdf/2412.03594)\]
+
+\[FCS'26\]
+"**A Comprehensive Taxonomy of Prompt Engineering Techniques for Large Language Models**".
+Yaoyang Liu, Zhen Zheng, Feng Zhang, Jincheng Feng, Yiyang Fu, Jidong Zhai, Bingsheng He, Xiao Zhang, Xiaoyong Du.
+\[[PDF](/files/liu-fcs26.pdf)\]
+
 \[ATC'25\]
 "**PluS: Highly Efficient and Expandable ML Compiler with Pluggable Graph Schedules**".
-Ruofan Wu, **Zhen Zheng**, Feng Zhang, Chuanjie Liu, Zaifeng Pan, Jidong Zhai, and Xiaoyong Du.
+Ruofan Wu, **Zhen Zheng**, Feng Zhang, Chuanjie Liu, Zaifeng Pan, Jidong Zhai, Xiaoyong Du.
 \[[PDF](/files/plus-atc25.pdf)\]
 
 \[EuroSys'25\]
@@ -62,25 +76,13 @@ Shulai Zhang, Quan Chen, Weihao Cui, Han Zhao, Chunyu Xue, **Zhen Zheng**, Wei L
 \[[PDF](/files/bless-eurosys25.pdf)\]
 
 \[Preprint'24\]
-"**MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design**".
-**Zhen Zheng**, Xiaonan Song, Chuanjie Liu.
-\[[PDF](https://arxiv.org/pdf/2412.14590)\]
-(the code will be released in the future)
-
-\[Preprint'24\]
-"**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**".
-**Zhen Zheng**, Xin Ji, Taosong Fang, Fanghao Zhou, Chuanjie Liu, Gang Peng.
-\[[PDF](https://arxiv.org/pdf/2412.03594)\]
-(the code will be released in the future)
-
-\[Preprint'24\]
 "**ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks**".
 Xiaoxia Wu, Haojun Xia, Stephen Youn, **Zhen Zheng**, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Yuxiong He, Olatunji Ruwase, Leon Song, Zhewei Yao.
 \[[PDF](https://arxiv.org/pdf/2312.08583)\]
 
 \[SC'24\]
 "**RecFlex: Enabling Feature Heterogeneity-Aware Optimization for Deep Recommendation Models with Flexible Schedules**".
-Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Bing Xie, Ruofan Wu, Shaden Smith, Chuanjie Liu, Olatunji Ruwase, Xiaoyong Du, and Yufei Ding.
+Zaifeng Pan, **Zhen Zheng**, Feng Zhang, Bing Xie, Ruofan Wu, Shaden Smith, Chuanjie Liu, Olatunji Ruwase, Xiaoyong Du, Yufei Ding.
 \[[PDF](/files/recflex-sc24.pdf) | [Code](https://github.com/PanZaifeng/RecFlex)\]
 
 \[ATC'24\]
@@ -96,16 +98,16 @@ Kezhao Huang, Jidong Zhai, Liyan Zheng, Haojie Wang, Yuyang Jin, Qihao Zhang, Ru
 
 \[OSDI'24\]
 "**MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures**".
-Donglin Zhuang*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, Shuaiwen Leon Song.
+Donglin Zhuang\*, **Zhen Zheng**\*, Haojun Xia, Xiafei Qiu, Junjie Bai, Wei Lin, Shuaiwen Leon Song.
 (revise-and-resubmitted in OSDI'23 and accepted in OSDI'24)
 \[[PDF](/files/mononn-osdi24.pdf) | [Code](https://github.com/AlibabaResearch/mononn)\]
-(* Equal contribution)
+(\* Equal contribution)
 
 \[VLDB'24 (PVLDB'23)\]
 "**Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity**".
 Haojun Xia\*, **Zhen Zheng**\*, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.
 \[[PDF](/files/flashllm-vldb24.pdf) | [Code](https://github.com/AlibabaResearch/flash-llm)\]
-(* Equal contribution)
+(\* Equal contribution)
 
 \[SIGMOD'24 (PACMMOD'23)\]
 "**BladeDISC: Optimizing Dynamic Shape Machine Learning Workloads via Compiler Approach**".
