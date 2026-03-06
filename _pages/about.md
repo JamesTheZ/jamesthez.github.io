@@ -53,7 +53,7 @@ Haojun Xia, Xiaoxia Wu, Jisen Li, Robert Wu, Junxiong Wang, Jue Wang, Chenxi Li,
 \[MLSys'26 (_to appear_)\]
 "**MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design**".
 **Zhen Zheng**, Xiaonan Song, Chuanjie Liu.
-\[[PDF](https://arxiv.org/pdf/2412.14590)\]
+\[[PDF](https://arxiv.org/pdf/2412.14590) | [Code](https://github.com/microsoft/MixLLM)\]
 
 \[MLSys'26 (_to appear_)\]
 "**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**".
