@@ -9,32 +9,13 @@ redirect_from:
 ---
 
 
-I am a Senior Principal Research Manager at Microsoft AI (from _DeepSpeed_ team to _Microsoft Superintelligence_ team), working on large-scale machine learning system optimization through innovative kernel, algorithm, scheduling, and compiler technologies.
-Previously, I was a Staff Research Engineer at Alibaba Cloud, where I led the development of optimizing compilers for GPU-based machine learning and spearheaded research on inference optimization for the _Platform of Artificial Intelligence_ (PAI)—Alibaba Cloud's premier SaaS/PaaS solution for end-to-end machine learning.
-Before Alibaba, I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
-In 2018, I was a visiting scholar at North Carolina State University under the supervision of [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm).
+I am a Research Scientist at ByteDance Seed, where I focus on pushing the boundaries of large-scale LLM and multimodal training. My work centers on full-stack optimization, leveraging innovative kernel and communication design, advanced parallelism, and compiler technologies to architect the systems powering the next generation of AI.
 
-My research interests span machine learning algorithm-system co-design, high-performance computing, and heterogeneous computing.
-Please feel free to contact me regarding potential research collaborations.
+Previously, I was a Senior Principal Research Manager at Microsoft, where I transitioned from the DeepSpeed team to the Microsoft Superintelligence team. In that role, I led the LLM inference and RL rollout initiatives for Microsoft AI-Asia, pioneering high-performance solutions through deep algorithm-system co-design. Earlier in my career, I served as a Staff Research Engineer at Alibaba Cloud, where I led the development of optimizing compilers for GPU-based machine learning and spearheaded inference optimization for the Platform of Artificial Intelligence (PAI).
+I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/), following a visiting scholarship at North Carolina State University with [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm).
 
-**🔥We are hiring! We have world-class LLM industry scenarios and scientific research topics. Together we can make outstanding contributions to the development of AI technology and thereby contribute to human progress.**
-
-
-<!-- [Projects](#projects)
-======
-
-**Machine Learning Optimizing Compiler**
-- [BladeDISC](https://github.com/alibaba/BladeDISC). The state-of-the-art optimizing compiler for end-to-end dynamic shape machine learning programs with advanced fusion and code generation optimization on multiple hardware backends ([AStitch](https://dl.acm.org/doi/10.1145/3503222.3507723) techniques).
-- [RECom](https://github.com/AlibabaResearch/recom). An optimizing compiler that aims to accelerate the expensive embedding column processing during the inference of deep recommendation models on the GPU.
-- [MonoNN](https://github.com/AlibabaResearch/mononn). An optimizing compiler that can accommodate an entire neural network into a single GPU kernel, drastically reducing non-computation overhead and providing further fine-grained optimization opportunities from the newly formed monolithic optimization space.
-(code will be released soon)
-
-**Machine Learning Kernel Library**
-- [Flash-LLM](https://github.com/AlibabaResearch/flash-llm). A large language model (LLM) inference acceleration library for unstructured model pruning.
-- [Quant-LLM/FP6-LLM](https://github.com/usyd-fsalab/fp6_llm). An efficient GPU support for LLM inference with FP6 quantization (end-to-end: [DeepSpeed-FP6](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024)).
-
-**Heterogeneous Computing**
-- [VersaPipe](https://github.com/JamesTheZ/VersaPipe). A framework for pipelined computing on GPU. -->
+> ### **🚀 Join the Seed Team**
+> We are actively hiring! At ByteDance Seed, we operate at the frontier of AI infrastructure, tackling world-class scientific challenges at an unprecedented scale. If you are passionate about building the systems that will define the future of human progress, **let’s talk.**
 
 
 [Publications](#publications)
