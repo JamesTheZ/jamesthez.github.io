@@ -21,6 +21,10 @@ I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advis
 [Publications](#publications)
 ======
 
+\[ACL'26 (_to appear_)\]
+"**RoBSA: RoPE-based Blockwise Sparse Multi-head Latent Attention**".
+Xinyu Shi, Kairong Luo, **Zhen Zheng**, Wenguang Chen.
+
 \[MLSys'26 (_to appear_)\]
 "**FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap**".
 Taosong Fang, **Zhen Zheng**, Zhengzhao Ma, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun.
@@ -39,7 +43,7 @@ Haojun Xia, Xiaoxia Wu, Jisen Li, Robert Wu, Junxiong Wang, Jue Wang, Chenxi Li,
 \[MLSys'26 (_to appear_)\]
 "**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**".
 **Zhen Zheng**, Xin Ji, Taosong Fang, Fanghao Zhou, Chuanjie Liu, Gang Peng.
-\[[PDF](https://arxiv.org/pdf/2412.03594)\]
+\[[PDF](https://arxiv.org/pdf/2412.03594) | [Code](https://github.com/microsoft/MixLLM/tree/batchllm_vllm_064)\]
 
 \[FCS'26\]
 "**A Comprehensive Taxonomy of Prompt Engineering Techniques for Large Language Models**".
