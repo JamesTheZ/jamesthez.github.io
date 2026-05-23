@@ -15,7 +15,7 @@ Previously, I was a Senior Principal Research Manager at Microsoft, where I tran
 I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/), following a visiting scholarship at North Carolina State University with [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm).
 
 > ### **🚀 Join the Seed Team**
-> We are actively hiring, for both FTE and intern! At ByteDance Seed, we operate at the frontier of AI infrastructure, tackling world-class scientific challenges at an unprecedented scale. If you are passionate about building the systems that will define the future of human progress, **let’s talk.**
+> We are actively hiring for both full-time and intern roles! At ByteDance Seed, we operate at the frontier of AI infrastructure, tackling world-class scientific challenges at an unprecedented scale. If you are passionate about building the systems that will define the future of human progress, **let’s talk.**
 
 
 [Publications](#publications)
