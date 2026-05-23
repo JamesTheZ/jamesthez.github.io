@@ -15,7 +15,7 @@ Previously, I was a Senior Principal Research Manager at Microsoft, where I tran
 I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advised by [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/) and [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/), following a visiting scholarship at North Carolina State University with [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm).
 
 > ### **🚀 Join the Seed Team**
-> We are actively hiring! At ByteDance Seed, we operate at the frontier of AI infrastructure, tackling world-class scientific challenges at an unprecedented scale. If you are passionate about building the systems that will define the future of human progress, **let’s talk.**
+> We are actively hiring, for both FTE and intern! At ByteDance Seed, we operate at the frontier of AI infrastructure, tackling world-class scientific challenges at an unprecedented scale. If you are passionate about building the systems that will define the future of human progress, **let’s talk.**
 
 
 [Publications](#publications)
@@ -25,22 +25,24 @@ I earned my Ph.D. in Computer Science from Tsinghua University in 2019, co-advis
 "**RoBSA: RoPE-based Blockwise Sparse Multi-head Latent Attention**".
 Xinyu Shi, Kairong Luo, **Zhen Zheng**, Wenguang Chen.
 
-\[MLSys'26 (_to appear_)\]
+\[MLSys'26\]
 "**FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap**".
-Taosong Fang, **Zhen Zheng**, Zhengzhao Ma, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun.
-
-\[MLSys'26 (_to appear_)\]
-"**Kitty: Accurate and Efficient 2-bit KV Cache Quantization with Dynamic Channel-wise Precision Boost**".
-Haojun Xia, Xiaoxia Wu, Jisen Li, Robert Wu, Junxiong Wang, Jue Wang, Chenxi Li, Aman Singhal, Alay Dilipbhai Shah, Alpay Ariyak, Donglin Zhuang, Zhongzhu Zhou, Ben Athiwaratkun, **Zhen Zheng**†, Shuaiwen Leon Song†.
-\[[PDF](https://arxiv.org/pdf/2511.18643) | [Code](https://github.com/Summer-Summer/Kitty)\]
+Taosong Fang, **Zhen Zheng**†, Zhengzhao Ma, Yaojie Lu†, Hongyu Lin, Xianpei Han, Le Sun.
+\[[PDF](https://openreview.net/pdf?id=m14PPUfgEc)\]
 († Corresponding author)
 
-\[MLSys'26 (_to appear_)\]
+\[MLSys'26\]
+"**Kitty: Accurate and Efficient 2-bit KV Cache Quantization with Dynamic Channel-wise Precision Boost**".
+Haojun Xia, Xiaoxia Wu, Jisen Li, Robert Wu, Junxiong Wang, Jue Wang, Chenxi Li, Aman Singhal, Alay Dilipbhai Shah, Alpay Ariyak, Donglin Zhuang, Zhongzhu Zhou, Ben Athiwaratkun, **Zhen Zheng**†, Shuaiwen Leon Song†.
+\[[PDF](https://openreview.net/pdf?id=r3mQiuYKIN) | [Code](https://github.com/Summer-Summer/Kitty)\]
+(† Corresponding author)
+
+\[MLSys'26\]
 "**MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design**".
 **Zhen Zheng**, Xiaonan Song, Chuanjie Liu.
 \[[PDF](https://arxiv.org/pdf/2412.14590) | [Code](https://github.com/microsoft/MixLLM)\]
 
-\[MLSys'26 (_to appear_)\]
+\[MLSys'26\]
 "**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**".
 **Zhen Zheng**, Xin Ji, Taosong Fang, Fanghao Zhou, Chuanjie Liu, Gang Peng.
 \[[PDF](https://arxiv.org/pdf/2412.03594) | [Code](https://github.com/microsoft/MixLLM/tree/batchllm_vllm_064)\]
